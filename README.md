@@ -9,3 +9,15 @@ Things you may want to cover:
 
 Rails5で作る簡単なチャットアプリのデモ
 
+# インストールメモ
+
+```zsh
+$ git clone https://github.com/ememhr/rails_5_chat_demo.git
+$ bundle install
+$ bundle update
+$ bundle exec rails db:migrate
+$ bundle exec rails s
+```
+
+
+
