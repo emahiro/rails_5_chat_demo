@@ -11,6 +11,8 @@ Rails5で作る簡単なチャットアプリのデモ
 
 # インストールメモ
 
+- ruby2.4
+
 ```zsh
 $ git clone https://github.com/ememhr/rails_5_chat_demo.git
 $ bundle install
